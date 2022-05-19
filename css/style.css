@@ -82,7 +82,9 @@ height: 350px;
 @media screen and (max-width: 576px){
     button 
    {
-       font-size:0.7rem
+       font-size:0.7rem;
+           font-size:.5rem;
+
     }
 }
 @media screen and (max-width :991.98px)
