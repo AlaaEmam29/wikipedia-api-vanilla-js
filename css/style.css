@@ -79,17 +79,19 @@ height: 350px;
     }
   }
 
-
+@media screen and (max-width: 576px){
+    button 
+   {
+       font-size:0.7rem
+    }
+}
 @media screen and (max-width :991.98px)
 {
     .input-group
     {
         width: 100%;
     }
-button 
-   {
-       font-size:1.1rem
-    }
+
 }
 @media screen and (min-width :992px) and (max-width :1199.98px)
 {
